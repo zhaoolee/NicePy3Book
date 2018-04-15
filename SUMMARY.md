@@ -9,4 +9,5 @@
 * [&lt;进击的虫师&gt; 爬取豆瓣电影海报\(Top250\)](jin-ji-de-chong-5e083e-pa-qu-dou-ban-dian-ying-hai-62a528-top250.md)
 * [&lt;进击的虫师&gt;在线百度文库爬虫\(免下载券\)](jin-ji-de-chong-5e083e-zai-xian-bai-du-wen-ku-pa-866b28-mian-xia-zai-523829.md)
 * [&lt;进击的虫师&gt;百度贴吧抓图脚本](jin-ji-de-chong-5e083e-bai-du-tie-ba-zhua-tu-jiao-ben.md)
+* [为图片加水印](wei-tu-pian-jia-shui-yin.md)
 
