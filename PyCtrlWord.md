@@ -1,4 +1,4 @@
->虽然Word不好用, 但还必须得用它, `python-docx`是专门用于编辑Word文档的一个工具库, 它有两大用途, 自动化生成word文档 and 自动化修改文档
+> 虽然Word不好用, 但还必须得用它, `python-docx`是专门用于编辑Word文档的一个工具库, 它有两大用途, 自动化生成word文档 and 自动化修改文档
 
 > ![python word](https://upload-images.jianshu.io/upload_images/3203841-e43426023adb4c22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

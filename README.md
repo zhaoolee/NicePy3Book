@@ -1,4 +1,4 @@
-间# NicePy3Book
+# NicePy3Book
 > 本书中文名为《超级棒的"派神"书》，是一本开源书籍
 汇总一些超级棒的python3项目, 同时也是一本极好的python3学习资源
 

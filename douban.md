@@ -1,6 +1,6 @@
 > ##### 有人想学一点编程, 但是一直没有找到感兴趣的切入点,可以简单的爬虫入手! 几十行代码, 轻松爬取豆瓣Top250电影数据,即刻体会编程的乐趣...
 
-> ![给人用的爬虫工具Requests](http://upload-images.jianshu.io/upload_images/3203841-66bc5606d1892ea9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![给人类用的爬虫工具Requests](http://upload-images.jianshu.io/upload_images/3203841-66bc5606d1892ea9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 工具介绍:
 > Python3(python是很容易上手的编程语言,非常适合编程新手)
