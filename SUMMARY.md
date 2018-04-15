@@ -11,4 +11,5 @@
 * [&lt;进击的虫师&gt;百度贴吧抓图脚本](jin-ji-de-chong-5e083e-bai-du-tie-ba-zhua-tu-jiao-ben.md)
 * [为图片加水印](wei-tu-pian-jia-shui-yin.md)
 * [保护隐私, 删除图片源信息](bao-hu-yin-79c12c-shan-chu-tu-pian-yuan-xin-xi.md)
+* [操作数据库（Mysql \| Mongodb \| Redis）](cao-zuo-shu-ju-ku-ff08-mysql-mongodb-redis.md)
 
