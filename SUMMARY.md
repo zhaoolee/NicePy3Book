@@ -5,4 +5,6 @@
 * [&lt;自动化办公&gt; Python 操控 Word](zi-dong-hua-ban-516c3e-python-cao-kong-word.md)
 * [&lt;进击的虫师&gt;当图虫遇到爬虫...](jin-ji-de-chong-5e083e-dang-tu-chong-yu-dao-pa-866b.md)
 * [&lt;进击的虫师&gt;Python3获取本机公网ip](jin-ji-de-chong-5e083e-python3-huo-qu-ben-ji-gong-wang-ip.md)
+* [&lt;进击的虫师&gt;斗鱼颜值小姐姐的1000种自拍](jin-ji-de-chong-5e083e-dou-yu-yan-zhi-xiao-jie-jie-de-1000-zhong-zi-pai.md)
+* [&lt;进击的虫师&gt; 爬取豆瓣电影海报\(Top250\)](jin-ji-de-chong-5e083e-pa-qu-dou-ban-dian-ying-hai-62a528-top250.md)
 
