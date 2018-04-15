@@ -33,3 +33,5 @@ target.paste(hnu_image,(0,0), mask=a)
 # 保存图片
 target.save("f.png")
 ```
+## [资源](code/)
+
