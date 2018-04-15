@@ -31,18 +31,18 @@
 > 如果你有一颗成为 "黑客" 的心, 一定不要错过这一章, 这里收录了, 关于python安全渗透的经典案例, python作为一门黑客语言, 一定能在你成为"黑帽子"的路上, 祝你一臂之力
 
 ## NicePython
-> python能做的东西实在太多了, 当有前五个专题无法收录的 Demo 出现时, 它将会被安置到本章, 当然这里也会出现作者作为一名职业程序员的碎碎念, 希望能给大家带来帮助! 
+> Python好玩东西实在太多了, 当有前五个专题无法收录的 Demo 出现时, 它将会被安置到本章, 当然这里也会出现作者作为一名职业程序员的碎碎念, 希望能给大家带来帮助! 
 
 
 ## Python之禅
 > The Zen of Python, by Tim Peters
 
-> - Beautiful is better than ugly.
-- Explicit is better than implicit.
-- Simple is better than complex.
-- Complex is better than complicated.
-- Flat is better than nested.
-- Sparse is better than dense.
+> - Beautiful is better than ugly.(优美胜于丑陋)
+- Explicit is better than implicit.(明了胜于晦涩)
+- Simple is better than complex.(简洁胜于复杂)
+- Complex is better than complicated.(复杂胜于凌乱)
+- Flat is better than nested.(扁平胜于嵌套)
+- Sparse is better than dense.()
 - Readability counts.
 - Special cases aren't special enough to break the rules.
 - Although practicality beats purity.
