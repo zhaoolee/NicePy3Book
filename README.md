@@ -1,4 +1,4 @@
-# NicePy3Book
+间# NicePy3Book
 > 本书中文名为《超级棒的"派神"书》，是一本开源书籍
 汇总一些超级棒的python3项目, 同时也是一本极好的python3学习资源
 
@@ -42,20 +42,20 @@
 - Simple is better than complex.(简洁胜于复杂)
 - Complex is better than complicated.(复杂胜于凌乱)
 - Flat is better than nested.(扁平胜于嵌套)
-- Sparse is better than dense.()
-- Readability counts.
-- Special cases aren't special enough to break the rules.
-- Although practicality beats purity.
-- Errors should never pass silently.
-- Unless explicitly silenced.
-- In the face of ambiguity, refuse the temptation to guess.
-- There should be one-- and preferably only one --obvious way to do it.
-- Although that way may not be obvious at first unless you're Dutch.
-- Now is better than never.
-- Although never is often better than *right* now.
-- If the implementation is hard to explain, it's a bad idea.
-- If the implementation is easy to explain, it may be a good idea.
-- Namespaces are one honking great idea -- let's do more of those!
+- Sparse is better than dense.(间隔胜于紧凑)
+- Readability counts.(可读性很重要)
+- Special cases aren't special enough to break the rules.(特例并没有特殊到可以违背规则)
+- Although practicality beats purity.(虽然实用性胜于纯粹性)
+- Errors should never pass silently.(也不该默默忽略错误)
+- Unless explicitly silenced.(除非明确地忽略)
+- In the face of ambiguity, refuse the temptation to guess.(当存在多种可能, 不要尝试去猜测)
+- There should be one-- and preferably only one --obvious way to do it.(尽量找一种,最后只有一种明显的解决方法)
+- Although that way may not be obvious at first unless you're Dutch.(虽然这并不容易, 因为你不是python之父)
+- Now is better than never.(做也许好过不做)
+- Although never is often better than *right* now.(然而不经思考就做还不如不做)
+- If the implementation is hard to explain, it's a bad idea.(如果方案很难解释, 那肯定不是好方案)
+- If the implementation is easy to explain, it may be a good idea.(如果方案容易解释, 那有可能是个好方案)
+- Namespaces are one honking great idea -- let's do more of those!(命名空间是一种绝妙的理念, 我们应该多加利用)
 
 ## 关于作者
 
