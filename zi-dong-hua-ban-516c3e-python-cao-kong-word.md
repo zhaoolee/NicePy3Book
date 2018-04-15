@@ -267,41 +267,16 @@ UserStyle2.font.size = Pt(15)
 
 
 # 设置字体颜色0c8ac5
-
-
 UserStyle2.font.color.rgb = RGBColor(0x0c, 0x8a, 0xc5)
 
-
 # 设置段落样式为宋体
-
-
 UserStyle2.font.name = '宋体'
-
-
 UserStyle2._element.rPr.rFonts.set(qn('w:eastAsia'), '宋体')
 
-
-​
-
-
-​
-
-
-​
-
-
 # 使用自定义段落样式
-
-
 document.add_paragraph('自定义段落样式', style = UserStyle1)
 
-
-​
-
-
 # 使用自定义字符样式
-
-
 document.add_paragraph('').add_run('正月里采花无哟花采，二月间采花花哟正开，二月间采花花哟正开。三月里桃花红哟似海，四月间葡萄架哟上开，四月间葡萄架哟上开。', style = UserStyle2)
 
 
@@ -312,7 +287,6 @@ document.add_paragraph('').add_run('正月里采花无哟花采，二月间采�
 
 
 # 设置粗体字
-
 
 document.add_paragraph('设置粗体字:').add_run('粗体字').bold = True
 
