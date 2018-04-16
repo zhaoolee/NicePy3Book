@@ -30,4 +30,5 @@
 * [&lt;安全渗透&gt;安装配置Kali虚拟机](InstallKali.md)
 * [# NicePython](NicePython.md)
 * [&lt;NicePython&gt;Google在线深度学习神器Colab](Colab.md)
+* [&lt;NicePython&gt;python脚本装换为windows可执行文件](pyToExe.md)
 
