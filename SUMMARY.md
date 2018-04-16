@@ -13,6 +13,7 @@
 * [&lt;虫师进击&gt;爬取豆瓣电影海报\(Top250\)](douban.md)
 * [# 机器学习](MachineLearning.md)
 * [&lt;机器学习&gt;泰坦尼克乘客存活状况(决策树案例)](Titanic.md)
+* [&lt;机器学习&gt;朴素贝叶斯完成新闻分类](NaiveBayesNews)
 * [&lt;机器学习&gt;Tensorflow可视化编程](TensorflowView.md)
 * [&lt;机器学习&gt;K近邻(knn)算法预测电影类型](knnPrediction.md)
 * [# 后台开发](BackEndDev.md)
