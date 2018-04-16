@@ -15,6 +15,7 @@
 * [&lt;后台开发&gt;读写bas64格式](rwbase64.md)
 * [&lt;后台开发&gt;操作数据库Mysql,Mongodb,Redis](ctrlDataBase.md)
 * [&lt;后台开发&gt;Python实现多人在线匿名聊天的小程序](AnonymityChat.md)
+* [&lt;后台开发&gt;详解Django自定义过滤器](diyFilter.md)
 * [# 机器学习](MachineLearning.md)
 * [&lt;机器学习&gt;泰坦尼克乘客存活状况(决策树案例)](Titanic.md)
 * [&lt;机器学习&gt;朴素贝叶斯完成新闻分类](NaiveBayesNews.md)
