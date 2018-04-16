@@ -11,6 +11,7 @@
 * [&lt;虫师进击&gt;斗鱼颜值小姐姐的1000种自拍](douyu.md)
 * [&lt;虫师进击&gt;爬取豆瓣电影海报\(Top250\)](douban.md)
 * [# 机器学习](MachineLearning.md)
+* [&lt;后台开发&gt;Tensorflow可视化编程](TensorflowView.md)
 * [# 后台开发](BackEndDev.md)
 * [&lt;后台开发&gt;操作数据库Mysql,Mongodb,Redis](ctrlDataBase.md)
 * [# 安全渗透](Safe.md)
