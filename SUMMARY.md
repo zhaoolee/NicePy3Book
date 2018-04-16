@@ -16,6 +16,7 @@
 * [&lt;机器学习&gt;Tensorflow可视化编程](TensorflowView.md)
 * [&lt;机器学习&gt;K近邻(knn)算法预测电影类型](knnPrediction.md)
 * [# 后台开发](BackEndDev.md)
+* [&lt;后台开发&gt;读写bas64格式](rwbase64.md)
 * [&lt;后台开发&gt;操作数据库Mysql,Mongodb,Redis](ctrlDataBase.md)
 * [&lt;后台开发&gt;Python实现多人在线匿名聊天的小程序](AnonymityChat.md)
 * [# 安全渗透](Safe.md)
