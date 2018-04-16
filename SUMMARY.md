@@ -20,6 +20,7 @@
 * [&lt;后台开发&gt;读写bas64格式](rwbase64.md)
 * [&lt;后台开发&gt;操作数据库Mysql,Mongodb,Redis](ctrlDataBase.md)
 * [&lt;后台开发&gt;Python实现多人在线匿名聊天的小程序](AnonymityChat.md)
+* [&lt;后台开发&gt;向浏览器输入网址,到完成请求的整个过程](bs.md)
 * [# 安全渗透](Safe.md)
 * [&lt;安全渗透&gt;保护隐私, 删除图片源信息](rmSourceData.md)
 * [&lt;安全渗透&gt;刺探星巴克无线网，记录顾客信息](scapyStarBack.md)
