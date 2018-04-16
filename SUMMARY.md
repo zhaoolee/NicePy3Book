@@ -26,4 +26,5 @@
 * [&lt;安全渗透&gt;刺探星巴克无线网，记录顾客信息](scapyStarBack.md)
 * [&lt;安全渗透&gt;安装配置Kali虚拟机](InstallKali.md)
 * [# NicePython](NicePython.md)
+* [&lt;NicePython&gt;Google在线深度学习神器Colab](Colab.md)
 
