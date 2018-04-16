@@ -31,4 +31,5 @@
 * [# NicePython](NicePython.md)
 * [&lt;NicePython&gt;Google在线深度学习神器Colab](Colab.md)
 * [&lt;NicePython&gt;python脚本装换为windows可执行文件](pyToExe.md)
+* [&lt;NicePython&gt;用python检测python---批量检查注释率是否达标](pyTestpy.md)
 
