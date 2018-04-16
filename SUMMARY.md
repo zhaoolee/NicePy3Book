@@ -24,7 +24,6 @@
 * [&lt;机器学习&gt;机器学习三剑客之Matplotlab](Matplotlab.md)
 * [&lt;机器学习&gt;机器学习三剑客之Numpy](Numpy.md)
 * [&lt;机器学习&gt;机器学习三剑客之Pandas](Pandas.md)
-* [&lt;后台开发&gt;向浏览器输入网址,到完成请求的整个过程](bs.md)
 * [# 安全渗透](Safe.md)
 * [&lt;安全渗透&gt;保护隐私, 删除图片源信息](rmSourceData.md)
 * [&lt;安全渗透&gt;刺探星巴克无线网，记录顾客信息](scapyStarBack.md)
@@ -33,4 +32,6 @@
 * [&lt;NicePython&gt;Google在线深度学习神器Colab](Colab.md)
 * [&lt;NicePython&gt;python脚本装换为windows可执行文件](pyToExe.md)
 * [&lt;NicePython&gt;用python检测python---批量检查注释率是否达标](pyTestpy.md)
+* [&lt;NicePython&gt;向浏览器输入网址,到完成请求的整个过程](bs.md)
+
 
